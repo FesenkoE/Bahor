@@ -1,0 +1,241 @@
+@media (min-width: 1200px) and (max-width: 1600px) {
+  .polit {
+    margin-left: 100px;
+    color: red;
+}
+}
+@media (min-width: 1063px) and (max-width: 1200px) {
+
+ header {
+  background-size: 130%;
+  min-height: 660px;
+}
+.footer p {
+    text-align: center;
+    text-overflow: 10px;
+    padding-top: 20px;
+    font-size: 15px;
+    margin-left: 100px;
+  } 
+
+.footer a {
+    text-align: center;
+    text-overflow: 10px;
+    padding-top: 30px;
+    font-size: 12px;
+    margin-left: 430px;
+  }
+.polit {
+    margin-left: 120px;
+    color: red;
+}
+}
+
+@media (min-width: 769px) and (max-width: 1062px) {
+      header {
+  background-size: 130%;
+  min-height: 600px;
+}
+.footer {
+    height: 110px;
+}
+  
+.footer p {
+    text-align: center;
+    text-overflow: 10px;
+    padding-top: 30px;
+    font-size: 15px;
+    margin-left: 70px;
+  }
+.footer a {
+    text-align: center;
+    text-overflow: 10px;
+    padding-top: 30px;
+    font-size: 12px;
+    margin-left: 390px;
+  }
+.polit {
+    margin-left: 120px;
+    color: red;
+}
+
+}
+
+
+@media (min-width: 550px) and (max-width: 768px) {
+    header {
+  background-size: 160%;
+  min-height: 500px;
+}
+.footer {
+    height: 110px;
+}
+  
+.footer p {
+    text-align: center;
+    text-overflow: 10px;
+    padding-top: 20px;
+    font-size: 15px;
+    margin-left: 100px;
+  }
+.footer a {
+    text-align: center;
+    text-overflow: 10px;
+    padding-top: 30px;
+    font-size: 12px;
+    margin-left: 290px;
+  }
+.polit {
+    margin-left: 120px;
+    color: red;
+}
+
+}
+
+@media (max-width: 549px) {
+
+  header {
+  background-size: 180%;
+  min-height: 330px;  
+}
+
+.structblock h1 {
+  font-size: 2.2em;
+}
+
+.h2, h2 {
+    font-size: 21px;
+    text-align: justify;
+  }
+
+  .unik2 {
+    padding: 10px;
+  }
+
+  .situation2 {
+    padding: 10px;
+  }
+
+  .h1, h1 {
+    font-size: 28px;
+
+}
+
+.unik1 {  
+  min-height: 320px;  
+}
+
+.situation1-1 {
+  
+  min-height: 250px;
+  min-width: 320px;
+  
+}
+
+.bahor1-1 {
+  border-left: 2px solid #000000;
+}
+
+.bahor1 {
+  border-left: 1px solid #000000;
+}
+
+.bahor2-1 {
+  border-left: 2px solid #000000;
+}
+
+.bahor2 {
+  border-left: 1px solid #000000;
+}
+
+header {
+  min-height: 260px;
+}
+
+.price1 {
+  border-right: 1px solid #000000;
+}
+
+.price2 {
+  border-top: none;
+  border-bottom: none;
+}
+
+.price3 {
+  border-left: 1px solid #000000;
+}
+
+.form1-1-1 {
+  padding-bottom: 0px;
+}
+
+.form2-1-1 {
+  padding-bottom: 0px;
+}
+.footer p {
+    text-align: center;
+    text-overflow: 10px;
+    padding-top: 30px;
+    font-size: 15px;
+    margin-left: 50px;
+}
+
+.footer a {
+    text-align: center;
+    text-overflow: 10px;
+    padding-top: 30px;
+    font-size: 12px;
+    margin-left: 210px;
+}
+.polit {
+    margin-left: 120px;
+    color: red;
+}
+
+}
+@media (min-width: 320px) and (max-width: 548px) {
+
+.footer {
+    height: 110px;
+}
+.footer p {
+    text-align: center;
+    text-overflow: 10px;
+    padding-top: 15px;
+    font-size: 15px;
+    margin-left: 70px;
+}
+
+.footer a {
+    text-align: center;
+    text-overflow: 10px;
+    padding-top: 30px;
+    font-size: 12px;
+    margin-left: 150px;
+}
+.polit {
+    margin-left: 120px;
+    color: red;
+}
+
+.termo-danger-2-1 {
+    background-image: url("../img/kollage99.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 20px;
+    min-width: 320px;
+    max-width: 455px;
+    min-height: 360px;
+    background-position: 50% 50%; 
+
+}
+
+.termo-danger-2 {
+  padding-left: 0px;
+}
+
+.termo-danger-2-2 {
+  padding: 0px 0px 0px 10px;
+  text-align: justify;
+}
+}

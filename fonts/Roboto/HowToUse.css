@@ -1,0 +1,41 @@
+/* font-family: "Plumb"; */
+/* font-family: "Roboto"; */
+@font-face {
+    font-family: "Roboto";
+    src: url("../fonts/Roboto/RobotoRegular.eot");
+    src: url("../fonts/Roboto/RobotoRegular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/Roboto/RobotoRegular.woff") format("woff"),
+    url("../fonts/Roboto/RobotoRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 400;
+}
+/* font-family: "RobotoLight"; */
+@font-face {
+    font-family: "Roboto";
+    src: url("../fonts/Roboto/RobotoLight.eot");
+    src: url("../fonts/Roboto/RobotoLight.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/Roboto/RobotoLight.woff") format("woff"),
+    url("../fonts/Roboto/RobotoLight.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 300;
+}
+/* font-family: "RobotoMedium"; */
+@font-face {
+    font-family: "Roboto";
+    src: url("../fonts/Roboto/RobotoMedium.eot");
+    src: url("../fonts/Roboto/RobotoMedium.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/Roboto/RobotoMedium.woff") format("woff"),
+    url("../fonts/Roboto/RobotoMedium.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 500;
+}
+/* font-family: "RobotoBold"; */
+@font-face {
+    font-family: "Roboto";
+    src: url("../fonts/Roboto/RobotoBold.eot");
+    src: url("../fonts/Roboto/RobotoBold.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/Roboto/RobotoBold.woff") format("woff"),
+    url("../fonts/Roboto/RobotoBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 600;
+}
